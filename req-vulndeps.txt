@@ -1,1 +1,1 @@
-Radicale==1.0.1
+Radicale==1.1.2
